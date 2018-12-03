@@ -1,7 +1,6 @@
 # IMDBReviewAnalysis
 IMDB reviews sentiment analysis using ML.NET
 <br/>
-<br/>
 
 Build Status
 <br/>
