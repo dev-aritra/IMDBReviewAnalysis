@@ -13,10 +13,4 @@
     <Folder Include="MLModels\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="Data\train.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
