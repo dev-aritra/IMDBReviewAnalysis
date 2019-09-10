@@ -22,5 +22,5 @@ Build Status
 
 ## Author
 
-* **Aritra Das** - *Blog* - [GameOfThreads](https://gameofthreads.online/)
+* **Aritra Das** -[twitter](https://twitter.com/aritra__das)
 
