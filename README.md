@@ -22,5 +22,4 @@ Build Status
 
 ## Author
 
-* **Aritra Das** - [twitter](https://twitter.com/aritra__das)
-
+* **Aritra Das** - [twitter](https://twitter.com/aritra__das)  [medium](https://medium.com/@dev.aritradas)
